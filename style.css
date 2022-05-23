@@ -99,6 +99,10 @@ main{
     color: #fff;
     
 }
+input[type=submit]:hover{
+    background: #ce8f22;
+    cursor: pointer;
+}
 .form__inputs img{
     position: relative;
     top: 2px;
